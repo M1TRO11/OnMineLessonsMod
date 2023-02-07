@@ -6,6 +6,6 @@ public class OnMineLessonsClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-
+        //here comes a rain
     }
 }
