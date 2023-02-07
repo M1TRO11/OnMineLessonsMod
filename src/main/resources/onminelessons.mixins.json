@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.tct.onminelessons.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "OnMineMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
